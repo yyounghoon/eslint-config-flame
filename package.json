@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-huray",
+  "version": "1.0.0",
+  "description": "ESLint configs for Javascript",
+  "main": "index.js",
+  "repository": "https://github.com/huraypositive/eslint-config.git",
+  "author": "yyounghoon <yhyoon@huray.net>",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "javascript"
+  ],
+  "license": "MIT"
+}
