@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ESLint configs for Javascript",
   "main": "index.js",
-  "repository": "https://github.com/huraypositive/eslint-config.git",
+  "repository": "https://github.com/yyounghoon/eslint-config-flame",
   "author": "yyounghoon <yhyoon@huray.net>",
   "keywords": [
     "eslint",
