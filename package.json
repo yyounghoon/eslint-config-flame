@@ -10,5 +10,8 @@
     "eslintconfig",
     "javascript"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.15.0"
+  }
 }
