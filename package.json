@@ -11,8 +11,10 @@
     "javascript"
   ],
   "license": "MIT",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": ">=7.20.0"
+  },
+  "peerDependencies": {
   },
   "devDependencies": {
     "eslint": ">=7.20.0"
