@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-flame",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint configs for Javascript",
   "main": "index.js",
   "repository": "https://github.com/yyounghoon/eslint-config-flame",
@@ -14,8 +14,7 @@
   "dependencies": {
     "eslint": ">=7.20.0"
   },
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "eslint": ">=7.20.0"
   }
