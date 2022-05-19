@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-flame",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ESLint configs for Javascript",
   "main": "index.js",
   "repository": "https://github.com/yyounghoon/eslint-config-flame",
