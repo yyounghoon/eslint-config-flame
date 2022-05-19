@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ['airbnb-base'],
+    extends: ['eslint:recommended','airbnb-base'],
     env: {
         browser: true,
         node: true,
